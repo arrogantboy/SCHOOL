@@ -1,3 +1,3 @@
 # SCHOOL
 Homeworks and projects from my school.
-This is a code of a project in java (neatbeans) of a reloj and alarms using threads.
+This is recopilation of my projects of my school, I upload here because I want to share then and also I can use it as a backup. 
